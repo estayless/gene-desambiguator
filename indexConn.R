@@ -1,6 +1,3 @@
-library(mongolite)
-source("../dbConnection/collectionConnection.R")
-
 indexConn<-function(){
   user <- "user"
   password <- "DictMammalia"
